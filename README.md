@@ -1,7 +1,7 @@
 # Move Fast clone of sortablejs#ng-sortable
 Due to [ng-sortable](https://github.com/SortableJS/Sortable/issues/1044) was moved away from SortableJS/Sortable the pusher-dashboard app broke. 
-Because of our not standard implementation of Sortable we could not use the package a__ngular-legacy-sortablejs__ easily. To save time and headaches we decided to clone the the package and host it ourself. 
-If at one point the pusher-dashboard does not make use of [Sortable](https://github.com/SortableJS/Sortable) anymore the repo can be deleted.
+Because of our not standard implementation of __Sortablejs#ng-sortable__ we could not use the package __angular-legacy-sortablejs__ easily. To save time and headaches we decided to clone the the package and host it ourself. 
+If at one point the __pusher-dashboard__ does not make use of [Sortable](https://github.com/SortableJS/Sortable) anymore the repo can be deleted.
 
 
 ## Sortable
